@@ -1,0 +1,1626 @@
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+read graph cost 1.381094
+read graph cost 1.393996
+read graph cost 1.412576
+read graph cost 1.417945
+read graph cost 1.432819
+read graph cost 1.436956
+read graph cost 1.440538
+read graph cost 1.444001
+partition 0 and edge is 1070605663
+partition 1 and edge is 950845297
+partition 2 and edge is 645813714
+partition 3 and edge is 494303125
+partition 4 and edge is 266984441
+partition 5 and edge is 110998448
+partition 6 and edge is 50804286
+partition 7 and edge is 21779083
+before local
+this is 2, local vertex number 8087609, local edge number 457762241
+this is 4, local vertex number 7897611, local edge number 468222562
+this is 1, local vertex number 8341835, local edge number 443765518
+this is 3, local vertex number 7996481, local edge number 462779410
+this is 5, local vertex number 7874299, local edge number 469506114
+this is 0, local vertex number 8294697, local edge number 446360786
+this is 6, local vertex number 8300936, local edge number 446017240
+this is 7, local vertex number 8814899, local edge number 417720399
+shuffle edge 7.722857
+shuffle edge 7.838410
+shuffle edge 8.044146
+shuffle edge 8.582565
+shuffle edge 8.952040
+shuffle edge 9.419369
+shuffle edge 9.488063
+shuffle edge 9.497714
+total size of csr 2927758328
+build edge 9.818004
+this is partition 5, and vertex is 7874299 edge is 469506114
+total size of csr 2922624120
+build edge 9.938583
+this is partition 4, and vertex is 7897611 edge is 468222562
+total size of csr 2900851512
+build edge 10.130341
+this is partition 3, and vertex is 7996481 edge is 462779410
+total size of csr 2880782836
+build edge 10.635390
+this is partition 2, and vertex is 8087609 edge is 457762241
+total size of csr 2824795944
+build edge 10.983838
+this is partition 1, and vertex is 8341835 edge is 443765518
+total size of csr 2720615468
+build edge 11.389450
+this is partition 7, and vertex is 8814899 edge is 417720399
+total size of csr 2835177016
+build edge 11.455407
+this is partition 0, and vertex is 8294697 edge is 446360786
+total size of csr 2833802832
+build edge 11.485298
+this is partition 6, and vertex is 8300936 edge is 446017240
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+at partition 7, cached 0 vertex and 0 edges
+at partition 6, cached 0 vertex and 0 edges
+3 total processes killed (some possibly by mpiexec during cleanup)
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+read graph cost 1.395754
+read graph cost 1.413993
+read graph cost 1.425256
+read graph cost 1.439919
+read graph cost 1.442547
+read graph cost 1.442673
+read graph cost 1.447944
+read graph cost 1.451708
+partition 0 and edge is 1070605663
+partition 1 and edge is 950845297
+partition 2 and edge is 645813714
+partition 3 and edge is 494303125
+partition 4 and edge is 266984441
+partition 5 and edge is 110998448
+partition 6 and edge is 50804286
+partition 7 and edge is 21779083
+before local
+this is 6, local vertex number 8300936, local edge number 446017240
+this is 4, local vertex number 7897611, local edge number 468222562
+this is 3, local vertex number 7996481, local edge number 462779410
+this is 7, local vertex number 8814899, local edge number 417720399
+this is 2, local vertex number 8087609, local edge number 457762241
+this is 0, local vertex number 8294697, local edge number 446360786
+this is 1, local vertex number 8341835, local edge number 443765518
+this is 5, local vertex number 7874299, local edge number 469506114
+shuffle edge 7.515768
+shuffle edge 7.629666
+shuffle edge 7.925559
+shuffle edge 8.424840
+shuffle edge 8.865893
+shuffle edge 9.430153
+shuffle edge 9.408651
+shuffle edge 9.506362
+total size of csr 2927758328
+build edge 9.621568
+this is partition 5, and vertex is 7874299 edge is 469506114
+total size of csr 2922624120
+build edge 9.740309
+this is partition 4, and vertex is 7897611 edge is 468222562
+total size of csr 2900851512
+build edge 9.977425
+this is partition 3, and vertex is 7996481 edge is 462779410
+total size of csr 2880782836
+build edge 10.426573
+this is partition 2, and vertex is 8087609 edge is 457762241
+total size of csr 2824795944
+build edge 10.924140
+this is partition 1, and vertex is 8341835 edge is 443765518
+total size of csr 2833802832
+build edge 11.410348
+this is partition 6, and vertex is 8300936 edge is 446017240
+total size of csr 2835177016
+build edge 11.442888
+this is partition 0, and vertex is 8294697 edge is 446360786
+total size of csr 2720615468
+build edge 11.463082
+this is partition 7, and vertex is 8814899 edge is 417720399
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+at partition 7, cached 0 vertex and 0 edges
+at partition 6, cached 0 vertex and 0 edges
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+read graph cost 1.413912
+read graph cost 1.418705
+read graph cost 1.424112
+read graph cost 1.430116
+read graph cost 1.437021
+read graph cost 1.441894
+read graph cost 1.443736
+read graph cost 1.500061
+partition 0 and edge is 1070605663
+partition 1 and edge is 950845297
+partition 2 and edge is 645813714
+partition 3 and edge is 494303125
+partition 4 and edge is 266984441
+partition 5 and edge is 110998448
+partition 6 and edge is 50804286
+partition 7 and edge is 21779083
+before local
+this is 3, local vertex number 7996481, local edge number 462779410
+this is 1, local vertex number 8341835, local edge number 443765518
+this is 4, local vertex number 7897611, local edge number 468222562
+this is 5, local vertex number 7874299, local edge number 469506114
+this is 2, local vertex number 8087609, local edge number 457762241
+this is 6, local vertex number 8300936, local edge number 446017240
+this is 0, local vertex number 8294697, local edge number 446360786
+this is 7, local vertex number 8814899, local edge number 417720399
+shuffle edge 7.403657
+shuffle edge 7.501512
+shuffle edge 8.010833
+shuffle edge 8.341673
+shuffle edge 8.651136
+shuffle edge 9.175362
+shuffle edge 9.240976
+shuffle edge 9.247203
+total size of csr 2927758328
+build edge 9.517023
+this is partition 5, and vertex is 7874299 edge is 469506114
+total size of csr 2922624120
+build edge 9.613622
+this is partition 4, and vertex is 7897611 edge is 468222562
+total size of csr 2900851512
+build edge 10.100559
+this is partition 3, and vertex is 7996481 edge is 462779410
+total size of csr 2880782836
+build edge 10.420088
+this is partition 2, and vertex is 8087609 edge is 457762241
+total size of csr 2824795944
+build edge 10.704511
+this is partition 1, and vertex is 8341835 edge is 443765518
+total size of csr 2720615468
+build edge 11.101705
+this is partition 7, and vertex is 8814899 edge is 417720399
+total size of csr 2835177016
+build edge 11.206080
+this is partition 0, and vertex is 8294697 edge is 446360786
+total size of csr 2833802832
+build edge 11.208496
+this is partition 6, and vertex is 8300936 edge is 446017240
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+at partition 6, cached 0 vertex and 0 edges
+at partition 7, cached 0 vertex and 0 edges
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+read graph cost 1.440635
+read graph cost 1.487654
+read graph cost 1.490430
+read graph cost 1.492414
+read graph cost 1.507665
+read graph cost 1.511740
+read graph cost 1.512323
+read graph cost 1.521162
+partition 0 and edge is 1070605663
+partition 1 and edge is 950845297
+partition 2 and edge is 645813714
+partition 3 and edge is 494303125
+partition 4 and edge is 266984441
+partition 5 and edge is 110998448
+partition 6 and edge is 50804286
+partition 7 and edge is 21779083
+before local
+this is 6, local vertex number 8300936, local edge number 446017240
+this is 2, local vertex number 8087609, local edge number 457762241
+this is 1, local vertex number 8341835, local edge number 443765518
+this is 5, local vertex number 7874299, local edge number 469506114
+this is 4, local vertex number 7897611, local edge number 468222562
+this is 3, local vertex number 7996481, local edge number 462779410
+this is 7, local vertex number 8814899, local edge number 417720399
+this is 0, local vertex number 8294697, local edge number 446360786
+shuffle edge 7.544089
+shuffle edge 7.622919
+shuffle edge 8.173284
+shuffle edge 8.608797
+shuffle edge 8.917008
+shuffle edge 9.310534
+shuffle edge 9.415199
+shuffle edge 9.561999
+total size of csr 2927758328
+build edge 9.646797
+this is partition 5, and vertex is 7874299 edge is 469506114
+total size of csr 2922624120
+build edge 9.650592
+this is partition 4, and vertex is 7897611 edge is 468222562
+total size of csr 2900851512
+build edge 10.258894
+this is partition 3, and vertex is 7996481 edge is 462779410
+total size of csr 2880782836
+build edge 10.692621
+this is partition 2, and vertex is 8087609 edge is 457762241
+total size of csr 2824795944
+build edge 10.940830
+this is partition 1, and vertex is 8341835 edge is 443765518
+total size of csr 2720615468
+build edge 11.307772
+this is partition 7, and vertex is 8814899 edge is 417720399
+total size of csr 2835177016
+build edge 11.338600
+this is partition 0, and vertex is 8294697 edge is 446360786
+total size of csr 2833802832
+build edge 11.554927
+this is partition 6, and vertex is 8300936 edge is 446017240
+generate cache file
+generate cache file
+generate cache file
+generate cache file
+generate cache file
+generate cache file
+generate cache file
+generate cache file
+p_i 0, current capacity size 1036288
+p_i 0, current capacity size 1155072
+p_i 0, current capacity size 1019904
+p_i 0, current capacity size 1036288
+p_i 0, current capacity size 1019904
+p_i 0, current capacity size 1019904
+p_i 0, current capacity size 1167360
+p_i 0, current capacity size 1165312
+p_i 1, current capacity size 2129920
+p_i 1, current capacity size 2408448
+p_i 1, current capacity size 2179072
+p_i 1, current capacity size 2269184
+p_i 1, current capacity size 2138112
+p_i 1, current capacity size 2007040
+p_i 1, current capacity size 1875968
+p_i 1, current capacity size 2334720
+p_i 2, current capacity size 2736128
+p_i 2, current capacity size 2834432
+p_i 2, current capacity size 2752512
+p_i 2, current capacity size 2637824
+p_i 2, current capacity size 3784704
+p_i 2, current capacity size 3784704
+p_i 2, current capacity size 2826240
+p_i 2, current capacity size 2703360
+p_i 3, current capacity size 4259840
+p_i 3, current capacity size 4292608
+p_i 3, current capacity size 4259840
+p_i 3, current capacity size 4096000
+p_i 3, current capacity size 4489216
+p_i 3, current capacity size 4358144
+p_i 3, current capacity size 3219456
+p_i 3, current capacity size 4014080
+p_i 4, current capacity size 4816896
+p_i 4, current capacity size 5210112
+p_i 4, current capacity size 4816896
+p_i 4, current capacity size 5275648
+p_i 4, current capacity size 5111808
+p_i 4, current capacity size 5079040
+p_i 4, current capacity size 5013504
+p_i 4, current capacity size 5586944
+p_i 5, current capacity size 5210112
+p_i 5, current capacity size 5668864
+p_i 5, current capacity size 5472256
+p_i 5, current capacity size 5308416
+p_i 5, current capacity size 5505024
+p_i 5, current capacity size 5914624
+p_i 5, current capacity size 5406720
+p_i 5, current capacity size 7733248
+p_i 6, current capacity size 6193152
+p_i 6, current capacity size 6881280
+p_i 6, current capacity size 8781824
+p_i 6, current capacity size 8388608
+p_i 6, current capacity size 6438912
+p_i 6, current capacity size 8060928
+p_i 6, current capacity size 8847360
+p_i 6, current capacity size 7766016
+p_i 7, current capacity size 9371648
+p_i 7, current capacity size 9043968
+p_i 7, current capacity size 8552448
+p_i 7, current capacity size 9371648
+p_i 7, current capacity size 8585216
+p_i 7, current capacity size 9437184
+p_i 7, current capacity size 6701056
+p_i 7, current capacity size 9076736
+p_i 8, current capacity size 9895936
+p_i 8, current capacity size 9306112
+p_i 8, current capacity size 9633792
+p_i 8, current capacity size 10027008
+p_i 8, current capacity size 9699328
+p_i 8, current capacity size 10420224
+p_i 8, current capacity size 10027008
+p_i 8, current capacity size 9076736
+p_i 9, current capacity size 10420224
+p_i 9, current capacity size 9306112
+p_i 9, current capacity size 10420224
+p_i 9, current capacity size 10813440
+p_i 9, current capacity size 10616832
+p_i 9, current capacity size 10944512
+p_i 9, current capacity size 10256384
+p_i 9, current capacity size 10289152
+p_i 10, current capacity size 10682368
+p_i 10, current capacity size 11599872
+p_i 10, current capacity size 10420224
+p_i 10, current capacity size 11337728
+p_i 10, current capacity size 10878976
+p_i 10, current capacity size 11337728
+p_i 10, current capacity size 12091392
+p_i 10, current capacity size 10813440
+p_i 11, current capacity size 11206656
+p_i 11, current capacity size 11468800
+p_i 11, current capacity size 11862016
+p_i 11, current capacity size 11337728
+p_i 11, current capacity size 11927552
+p_i 11, current capacity size 11927552
+p_i 11, current capacity size 12910592
+p_i 11, current capacity size 10813440
+p_i 12, current capacity size 11206656
+p_i 12, current capacity size 11468800
+p_i 12, current capacity size 12386304
+p_i 12, current capacity size 11862016
+p_i 12, current capacity size 12451840
+p_i 12, current capacity size 12451840
+p_i 12, current capacity size 13434880
+p_i 12, current capacity size 12910592
+p_i 13, current capacity size 12386304
+p_i 13, current capacity size 13172736
+p_i 13, current capacity size 15007744
+p_i 13, current capacity size 13434880
+p_i 13, current capacity size 15663104
+p_i 13, current capacity size 15073280
+p_i 13, current capacity size 13697024
+p_i 13, current capacity size 15073280
+p_i 14, current capacity size 16711680
+p_i 14, current capacity size 15073280
+p_i 14, current capacity size 15532032
+p_i 14, current capacity size 15073280
+p_i 14, current capacity size 15073280
+p_i 14, current capacity size 13434880
+p_i 14, current capacity size 13697024
+p_i 14, current capacity size 19267584
+p_i 15, current capacity size 15532032
+p_i 15, current capacity size 16973824
+p_i 15, current capacity size 15073280
+p_i 15, current capacity size 15859712
+p_i 15, current capacity size 15597568
+p_i 15, current capacity size 19791872
+p_i 15, current capacity size 13959168
+p_i 15, current capacity size 17956864
+p_i 16, current capacity size 15859712
+p_i 16, current capacity size 18546688
+p_i 16, current capacity size 19726336
+p_i 16, current capacity size 19791872
+p_i 16, current capacity size 14286848
+p_i 16, current capacity size 19267584
+p_i 16, current capacity size 20054016
+p_i 16, current capacity size 19529728
+p_i 17, current capacity size 18546688
+p_i 17, current capacity size 21299200
+p_i 17, current capacity size 20840448
+p_i 17, current capacity size 20578304
+p_i 17, current capacity size 20840448
+p_i 17, current capacity size 20578304
+p_i 17, current capacity size 20578304
+p_i 17, current capacity size 16384000
+p_i 18, current capacity size 21299200
+p_i 18, current capacity size 18546688
+p_i 18, current capacity size 21626880
+p_i 18, current capacity size 21889024
+p_i 18, current capacity size 21626880
+p_i 18, current capacity size 22151168
+p_i 18, current capacity size 21102592
+p_i 18, current capacity size 20578304
+p_i 19, current capacity size 21299200
+p_i 19, current capacity size 22675456
+p_i 19, current capacity size 21889024
+p_i 19, current capacity size 22675456
+p_i 19, current capacity size 20643840
+p_i 19, current capacity size 22675456
+p_i 19, current capacity size 21102592
+p_i 19, current capacity size 23724032
+p_i 20, current capacity size 21889024
+p_i 20, current capacity size 22347776
+p_i 20, current capacity size 20643840
+p_i 20, current capacity size 23199744
+p_i 20, current capacity size 22675456
+p_i 20, current capacity size 22675456
+p_i 20, current capacity size 23724032
+p_i 20, current capacity size 25821184
+p_i 21, current capacity size 22609920
+p_i 21, current capacity size 22675456
+p_i 21, current capacity size 20643840
+p_i 21, current capacity size 23199744
+p_i 21, current capacity size 22806528
+p_i 21, current capacity size 23199744
+p_i 21, current capacity size 25821184
+p_i 21, current capacity size 24772608
+p_i 22, current capacity size 23134208
+p_i 22, current capacity size 23855104
+p_i 22, current capacity size 20643840
+p_i 22, current capacity size 23855104
+p_i 22, current capacity size 23724032
+p_i 22, current capacity size 24772608
+p_i 22, current capacity size 25821184
+p_i 22, current capacity size 25952256
+p_i 23, current capacity size 23134208
+p_i 23, current capacity size 23855104
+p_i 23, current capacity size 23855104
+p_i 23, current capacity size 22216704
+p_i 23, current capacity size 24772608
+p_i 23, current capacity size 24903680
+p_i 23, current capacity size 25952256
+p_i 23, current capacity size 25952256
+p_i 24, current capacity size 24903680
+p_i 24, current capacity size 22609920
+p_i 24, current capacity size 24707072
+p_i 24, current capacity size 23855104
+p_i 24, current capacity size 24772608
+p_i 24, current capacity size 24379392
+p_i 24, current capacity size 25952256
+p_i 24, current capacity size 25952256
+p_i 25, current capacity size 24903680
+p_i 25, current capacity size 23855104
+p_i 25, current capacity size 26804224
+p_i 25, current capacity size 24903680
+p_i 25, current capacity size 25821184
+p_i 25, current capacity size 25952256
+p_i 25, current capacity size 27000832
+p_i 25, current capacity size 31260672
+p_i 26, current capacity size 26804224
+p_i 26, current capacity size 31260672
+p_i 26, current capacity size 25952256
+p_i 26, current capacity size 23855104
+p_i 26, current capacity size 25821184
+p_i 26, current capacity size 25952256
+p_i 26, current capacity size 27000832
+p_i 26, current capacity size 25952256
+p_i 27, current capacity size 26869760
+p_i 27, current capacity size 25952256
+p_i 27, current capacity size 31326208
+p_i 27, current capacity size 24379392
+p_i 27, current capacity size 25821184
+p_i 27, current capacity size 25952256
+p_i 27, current capacity size 27000832
+p_i 27, current capacity size 25952256
+p_i 28, current capacity size 26869760
+p_i 28, current capacity size 31326208
+p_i 28, current capacity size 25821184
+p_i 28, current capacity size 25952256
+p_i 28, current capacity size 25427968
+p_i 28, current capacity size 27000832
+p_i 28, current capacity size 30146560
+p_i 28, current capacity size 26476544
+p_i 29, current capacity size 26869760
+p_i 29, current capacity size 30146560
+p_i 29, current capacity size 31326208
+p_i 29, current capacity size 26869760
+p_i 29, current capacity size 27000832
+p_i 29, current capacity size 26476544
+p_i 29, current capacity size 30146560
+p_i 29, current capacity size 38535168
+p_i 30, current capacity size 26869760
+p_i 30, current capacity size 31195136
+p_i 30, current capacity size 30146560
+p_i 30, current capacity size 38535168
+p_i 30, current capacity size 26869760
+p_i 30, current capacity size 27000832
+p_i 30, current capacity size 27525120
+p_i 30, current capacity size 35520512
+p_i 31, current capacity size 31195136
+p_i 31, current capacity size 27918336
+p_i 31, current capacity size 35520512
+p_i 31, current capacity size 38535168
+p_i 31, current capacity size 31195136
+p_i 31, current capacity size 38535168
+p_i 31, current capacity size 35258368
+p_i 31, current capacity size 35913728
+p_i 32, current capacity size 31195136
+p_i 32, current capacity size 38535168
+p_i 32, current capacity size 35651584
+p_i 32, current capacity size 35258368
+p_i 32, current capacity size 39583744
+p_i 32, current capacity size 35913728
+p_i 32, current capacity size 32243712
+p_i 32, current capacity size 36306944
+p_i 33, current capacity size 36306944
+p_i 33, current capacity size 38535168
+p_i 33, current capacity size 36175872
+p_i 33, current capacity size 39583744
+p_i 33, current capacity size 35913728
+p_i 33, current capacity size 39452672
+p_i 33, current capacity size 39583744
+p_i 33, current capacity size 40632320
+p_i 34, current capacity size 40108032
+p_i 34, current capacity size 36306944
+p_i 34, current capacity size 36175872
+p_i 34, current capacity size 38535168
+p_i 34, current capacity size 39452672
+p_i 34, current capacity size 39583744
+p_i 34, current capacity size 40632320
+p_i 34, current capacity size 35913728
+p_i 35, current capacity size 36306944
+p_i 35, current capacity size 39583744
+p_i 35, current capacity size 40108032
+p_i 35, current capacity size 39452672
+p_i 35, current capacity size 36175872
+p_i 35, current capacity size 35913728
+p_i 35, current capacity size 40632320
+p_i 35, current capacity size 41680896
+p_i 36, current capacity size 41418752
+p_i 36, current capacity size 36175872
+p_i 36, current capacity size 39583744
+p_i 36, current capacity size 41680896
+p_i 36, current capacity size 38535168
+p_i 36, current capacity size 41680896
+p_i 36, current capacity size 40632320
+p_i 36, current capacity size 35913728
+p_i 37, current capacity size 41418752
+p_i 37, current capacity size 38535168
+p_i 37, current capacity size 36175872
+p_i 37, current capacity size 39583744
+p_i 37, current capacity size 42729472
+p_i 37, current capacity size 40632320
+p_i 37, current capacity size 35913728
+p_i 37, current capacity size 43778048
+p_i 38, current capacity size 38535168
+p_i 38, current capacity size 41418752
+p_i 38, current capacity size 37224448
+p_i 38, current capacity size 43778048
+p_i 38, current capacity size 42729472
+p_i 38, current capacity size 41943040
+p_i 38, current capacity size 41156608
+p_i 38, current capacity size 36962304
+p_i 39, current capacity size 41418752
+p_i 39, current capacity size 41943040
+p_i 39, current capacity size 37224448
+p_i 39, current capacity size 43778048
+p_i 39, current capacity size 43253760
+p_i 39, current capacity size 43253760
+p_i 39, current capacity size 43253760
+p_i 39, current capacity size 36962304
+p_i 40, current capacity size 41418752
+p_i 40, current capacity size 37224448
+p_i 40, current capacity size 43253760
+p_i 40, current capacity size 41943040
+p_i 40, current capacity size 43253760
+p_i 40, current capacity size 43778048
+p_i 40, current capacity size 43253760
+p_i 40, current capacity size 36962304
+p_i 41, current capacity size 43253760
+p_i 41, current capacity size 37486592
+p_i 41, current capacity size 43778048
+p_i 41, current capacity size 43253760
+p_i 41, current capacity size 43515904
+p_i 41, current capacity size 44040192
+p_i 41, current capacity size 43253760
+p_i 41, current capacity size 40108032
+p_i 42, current capacity size 43515904
+p_i 42, current capacity size 45350912
+p_i 42, current capacity size 37486592
+p_i 42, current capacity size 44040192
+p_i 42, current capacity size 43253760
+p_i 42, current capacity size 44826624
+p_i 42, current capacity size 43253760
+p_i 42, current capacity size 40108032
+p_i 43, current capacity size 44564480
+p_i 43, current capacity size 45350912
+p_i 43, current capacity size 44040192
+p_i 43, current capacity size 37486592
+p_i 43, current capacity size 44826624
+p_i 43, current capacity size 45350912
+p_i 43, current capacity size 43253760
+p_i 43, current capacity size 40108032
+p_i 44, current capacity size 46661632
+p_i 44, current capacity size 44826624
+p_i 44, current capacity size 44040192
+p_i 44, current capacity size 45350912
+p_i 44, current capacity size 47448064
+p_i 44, current capacity size 40108032
+p_i 44, current capacity size 45350912
+p_i 44, current capacity size 42205184
+p_i 45, current capacity size 46661632
+p_i 45, current capacity size 48496640
+p_i 45, current capacity size 42467328
+p_i 45, current capacity size 45350912
+p_i 45, current capacity size 44826624
+p_i 45, current capacity size 45088768
+p_i 45, current capacity size 45350912
+p_i 45, current capacity size 41156608
+p_i 46, current capacity size 46661632
+p_i 46, current capacity size 48496640
+p_i 46, current capacity size 45088768
+p_i 46, current capacity size 44826624
+p_i 46, current capacity size 45350912
+p_i 46, current capacity size 45613056
+p_i 46, current capacity size 42205184
+p_i 46, current capacity size 59244544
+p_i 47, current capacity size 44826624
+p_i 47, current capacity size 45088768
+p_i 47, current capacity size 48496640
+p_i 47, current capacity size 46661632
+p_i 47, current capacity size 59244544
+p_i 47, current capacity size 45350912
+p_i 47, current capacity size 46661632
+p_i 47, current capacity size 50593792
+p_i 48, current capacity size 44826624
+p_i 48, current capacity size 45088768
+p_i 48, current capacity size 46661632
+p_i 48, current capacity size 49807360
+p_i 48, current capacity size 59244544
+p_i 48, current capacity size 50593792
+p_i 48, current capacity size 45350912
+p_i 48, current capacity size 46661632
+p_i 49, current capacity size 46661632
+p_i 49, current capacity size 49807360
+p_i 49, current capacity size 59244544
+p_i 49, current capacity size 45613056
+p_i 49, current capacity size 46399488
+p_i 49, current capacity size 46661632
+p_i 49, current capacity size 61603840
+p_i 49, current capacity size 67371008
+p_i 50, current capacity size 46661632
+p_i 50, current capacity size 49807360
+p_i 50, current capacity size 59244544
+p_i 50, current capacity size 45613056
+p_i 50, current capacity size 63700992
+p_i 50, current capacity size 46661632
+p_i 50, current capacity size 67371008
+p_i 50, current capacity size 63176704
+p_i 51, current capacity size 46661632
+p_i 51, current capacity size 49807360
+p_i 51, current capacity size 59768832
+p_i 51, current capacity size 45613056
+p_i 51, current capacity size 63700992
+p_i 51, current capacity size 63176704
+p_i 51, current capacity size 46661632
+p_i 51, current capacity size 67633152
+p_i 52, current capacity size 46661632
+p_i 52, current capacity size 49807360
+p_i 52, current capacity size 59768832
+p_i 52, current capacity size 63700992
+p_i 52, current capacity size 63176704
+p_i 52, current capacity size 46661632
+p_i 52, current capacity size 67633152
+p_i 52, current capacity size 62390272
+p_i 53, current capacity size 59768832
+p_i 53, current capacity size 62390272
+p_i 53, current capacity size 64225280
+p_i 53, current capacity size 63176704
+p_i 53, current capacity size 67633152
+p_i 53, current capacity size 63438848
+p_i 53, current capacity size 66584576
+p_i 53, current capacity size 63438848
+p_i 54, current capacity size 63438848
+p_i 54, current capacity size 66584576
+p_i 54, current capacity size 60817408
+p_i 54, current capacity size 62390272
+p_i 54, current capacity size 64225280
+p_i 54, current capacity size 63176704
+p_i 54, current capacity size 63438848
+p_i 54, current capacity size 67633152
+p_i 55, current capacity size 63438848
+p_i 55, current capacity size 66584576
+p_i 55, current capacity size 60817408
+p_i 55, current capacity size 62390272
+p_i 55, current capacity size 64225280
+p_i 55, current capacity size 63176704
+p_i 55, current capacity size 63438848
+p_i 55, current capacity size 67633152
+p_i 56, current capacity size 63438848
+p_i 56, current capacity size 66584576
+p_i 56, current capacity size 60817408
+p_i 56, current capacity size 62390272
+p_i 56, current capacity size 63176704
+p_i 56, current capacity size 64225280
+p_i 56, current capacity size 63438848
+p_i 56, current capacity size 67633152
+p_i 57, current capacity size 64487424
+p_i 57, current capacity size 68681728
+p_i 57, current capacity size 60817408
+p_i 57, current capacity size 62390272
+p_i 57, current capacity size 64225280
+p_i 57, current capacity size 63176704
+p_i 57, current capacity size 63438848
+p_i 57, current capacity size 67633152
+p_i 58, current capacity size 64487424
+p_i 58, current capacity size 68681728
+p_i 58, current capacity size 60817408
+p_i 58, current capacity size 63438848
+p_i 58, current capacity size 64225280
+p_i 58, current capacity size 63176704
+p_i 58, current capacity size 63438848
+p_i 58, current capacity size 67633152
+p_i 59, current capacity size 64487424
+p_i 59, current capacity size 68681728
+p_i 59, current capacity size 60817408
+p_i 59, current capacity size 64225280
+p_i 59, current capacity size 63176704
+p_i 59, current capacity size 63438848
+p_i 59, current capacity size 67633152
+p_i 59, current capacity size 71827456
+p_i 60, current capacity size 64487424
+p_i 60, current capacity size 68681728
+p_i 60, current capacity size 72351744
+p_i 60, current capacity size 60817408
+p_i 60, current capacity size 64225280
+p_i 60, current capacity size 63176704
+p_i 60, current capacity size 63438848
+p_i 60, current capacity size 67633152
+p_i 61, current capacity size 68681728
+p_i 61, current capacity size 72351744
+p_i 61, current capacity size 64487424
+p_i 61, current capacity size 65273856
+p_i 61, current capacity size 60817408
+p_i 61, current capacity size 63176704
+p_i 61, current capacity size 68157440
+p_i 61, current capacity size 63963136
+p_i 62, current capacity size 64487424
+p_i 62, current capacity size 68681728
+p_i 62, current capacity size 60817408
+p_i 62, current capacity size 72351744
+p_i 62, current capacity size 63176704
+p_i 62, current capacity size 65273856
+p_i 62, current capacity size 68157440
+p_i 62, current capacity size 66060288
+p_i 63, current capacity size 64487424
+p_i 63, current capacity size 60817408
+p_i 63, current capacity size 68681728
+p_i 63, current capacity size 72351744
+p_i 63, current capacity size 65273856
+p_i 63, current capacity size 64225280
+p_i 63, current capacity size 66060288
+p_i 63, current capacity size 68157440
+p_i 64, current capacity size 64487424
+p_i 64, current capacity size 68681728
+p_i 64, current capacity size 60817408
+p_i 64, current capacity size 72351744
+p_i 64, current capacity size 65273856
+p_i 64, current capacity size 64225280
+p_i 64, current capacity size 67108864
+p_i 64, current capacity size 68157440
+p_i 65, current capacity size 64487424
+p_i 65, current capacity size 68681728
+p_i 65, current capacity size 60817408
+p_i 65, current capacity size 72351744
+p_i 65, current capacity size 65273856
+p_i 65, current capacity size 64225280
+p_i 65, current capacity size 67108864
+p_i 65, current capacity size 68157440
+p_i 66, current capacity size 68681728
+p_i 66, current capacity size 64487424
+p_i 66, current capacity size 60817408
+p_i 66, current capacity size 72351744
+p_i 66, current capacity size 65273856
+p_i 66, current capacity size 64225280
+p_i 66, current capacity size 67108864
+p_i 66, current capacity size 68157440
+p_i 67, current capacity size 64487424
+p_i 67, current capacity size 68681728
+p_i 67, current capacity size 60817408
+p_i 67, current capacity size 72351744
+p_i 67, current capacity size 65273856
+p_i 67, current capacity size 64225280
+p_i 67, current capacity size 67108864
+p_i 67, current capacity size 68157440
+p_i 68, current capacity size 64487424
+p_i 68, current capacity size 68681728
+p_i 68, current capacity size 60817408
+p_i 68, current capacity size 72351744
+p_i 68, current capacity size 64225280
+p_i 68, current capacity size 65273856
+p_i 68, current capacity size 67108864
+p_i 68, current capacity size 68157440
+p_i 69, current capacity size 68681728
+p_i 69, current capacity size 64487424
+p_i 69, current capacity size 72351744
+p_i 69, current capacity size 60817408
+p_i 69, current capacity size 65273856
+p_i 69, current capacity size 64225280
+p_i 69, current capacity size 68157440
+p_i 69, current capacity size 67108864
+p_i 70, current capacity size 64487424
+p_i 70, current capacity size 68681728
+p_i 70, current capacity size 60817408
+p_i 70, current capacity size 72351744
+p_i 70, current capacity size 65273856
+p_i 70, current capacity size 64225280
+p_i 70, current capacity size 67108864
+p_i 70, current capacity size 68157440
+p_i 71, current capacity size 64487424
+p_i 71, current capacity size 69206016
+p_i 71, current capacity size 72351744
+p_i 71, current capacity size 60817408
+p_i 71, current capacity size 65273856
+p_i 71, current capacity size 64225280
+p_i 71, current capacity size 68157440
+p_i 71, current capacity size 67108864
+p_i 72, current capacity size 69206016
+p_i 72, current capacity size 64487424
+p_i 72, current capacity size 72351744
+p_i 72, current capacity size 60817408
+p_i 72, current capacity size 65273856
+p_i 72, current capacity size 64225280
+p_i 72, current capacity size 67108864
+p_i 72, current capacity size 68157440
+p_i 73, current capacity size 64487424
+p_i 73, current capacity size 69206016
+p_i 73, current capacity size 60817408
+p_i 73, current capacity size 72351744
+p_i 73, current capacity size 65273856
+p_i 73, current capacity size 67108864
+p_i 73, current capacity size 68157440
+p_i 73, current capacity size 66322432
+p_i 74, current capacity size 64487424
+p_i 74, current capacity size 69206016
+p_i 74, current capacity size 60817408
+p_i 74, current capacity size 72351744
+p_i 74, current capacity size 65273856
+p_i 74, current capacity size 66322432
+p_i 74, current capacity size 67108864
+p_i 74, current capacity size 68157440
+p_i 75, current capacity size 64487424
+p_i 75, current capacity size 72351744
+p_i 75, current capacity size 65273856
+p_i 75, current capacity size 66322432
+p_i 75, current capacity size 68157440
+p_i 75, current capacity size 67108864
+p_i 75, current capacity size 77594624
+p_i 75, current capacity size 94371840
+p_i 76, current capacity size 77594624
+p_i 76, current capacity size 64487424
+p_i 76, current capacity size 72351744
+p_i 76, current capacity size 94371840
+p_i 76, current capacity size 65273856
+p_i 76, current capacity size 66322432
+p_i 76, current capacity size 67108864
+p_i 76, current capacity size 68157440
+p_i 77, current capacity size 77594624
+p_i 77, current capacity size 64487424
+p_i 77, current capacity size 72351744
+p_i 77, current capacity size 94371840
+p_i 77, current capacity size 66322432
+p_i 77, current capacity size 67108864
+p_i 77, current capacity size 68157440
+p_i 77, current capacity size 98828288
+p_i 78, current capacity size 64487424
+p_i 78, current capacity size 77594624
+p_i 78, current capacity size 72351744
+p_i 78, current capacity size 94371840
+p_i 78, current capacity size 98828288
+p_i 78, current capacity size 66322432
+p_i 78, current capacity size 67108864
+p_i 78, current capacity size 101711872
+p_i 79, current capacity size 77594624
+p_i 79, current capacity size 72351744
+p_i 79, current capacity size 94371840
+p_i 79, current capacity size 98828288
+p_i 79, current capacity size 67108864
+p_i 79, current capacity size 101711872
+p_i 79, current capacity size 72876032
+690210 8562914 734749 1397316 1212001 1687943 1972950 2195716 2384655 2562584 2339932 31870916 
+779263 9791984 608421 1166245 941249 1307035 1535428 1778160 2085173 2466405 2490491 32760902 
+435380 6157274 360775 805698 628854 946685 1180680 1471673 1966190 2909526 3876615 36527182 
+188883 6572187 575403 1128043 967140 1376120 1676589 1974217 2327653 2793635 2845130 35309068 
+925832 7676435 635827 1254450 1067824 1489530 1738412 1933236 2141263 2504631 2794014 32632014 
+p_i 79, current capacity size 100139008
+944381 10853106 721518 1243062 969495 1222209 1272506 1271786 1277609 1385324 1719594 34426841 
+417549 8392840 730608 1341671 1101410 1473491 1674790 1851649 2091814 2448164 2512447 33484325 
+364479 7581044 683888 1301793 1080991 1485672 1707646 1887613 2100095 2451652 2714583 33954214 
+finish generate cache file, total gen cache file time 13.082763 s
+finish generate cache file, total gen cache file time 13.087235 s
+finish generate cache file, total gen cache file time 13.088968 s
+finish generate cache file, total gen cache file time 13.090866 s
+finish generate cache file, total gen cache file time 13.093367 s
+finish generate cache file, total gen cache file time 13.097923 s
+finish generate cache file, total gen cache file time 13.098216 s
+at partition 3, cached 0 vertex and 0 edges
+at partition 4, cached 0 vertex and 0 edges
+at partition 5, cached 0 vertex and 0 edges
+at partition 6, cached 0 vertex and 0 edges
+at partition 2, cached 0 vertex and 0 edges
+at partition 7, cached 0 vertex and 0 edges
+at partition 1, cached 0 vertex and 0 edges
+finish generate cache file, total gen cache file time 13.142374 s
+at partition 0, cached 0 vertex and 0 edges
+at 6, finish load graph send graph 2.687433 s
+at 7, finish load graph send graph 2.686323 s
+finish to load graph data
+finish to load graph data
+at 1, finish load graph send graph 2.717369 s
+at 0, finish load graph send graph 2.679748 s
+finish to load graph data
+at 3, finish load graph send graph 2.747702 s
+finish to load graph data
+finish to load graph data
+at 2, finish load graph send graph 2.748396 s
+finish to load graph data
+at 4, finish load graph send graph 2.776481 s
+finish to load graph data
+at 5, finish load graph send graph 2.795425 s
+finish to load graph data
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.294
+this is 3, and finish msg producer at 0.515
+this is 5, and finish msg producer at 0.520
+this is 6, and finish msg producer at 0.522
+this is 1, and finish msg producer at 0.522
+this is 7, and finish msg producer at 0.538
+this is 4, and finish msg producer at 0.539
+this is 0, and finish msg producer at 0.563
+worker num 48
+finish test
+******this is 7, and local walker is 44074495
+worker num 48
+finish test
+******this is 1, and local walker is 41709175
+worker num 48
+finish test
+******this is 4, and local walker is 39488055
+worker num 48
+finish test
+******this is 5, and local walker is 39371495
+worker num 48
+finish test
+******this is 6, and local walker is 41504680
+worker num 48
+finish test
+******this is 3, and local walker is 39982405
+worker num 48
+finish test
+******this is 2, and local walker is 40438045
+worker num 48
+finish test
+step(0), active(328041835), time(1.331)
+******this is 0, and local walker is 41473485
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.904
+this is 0, and finish msg producer at 1.144
+this is 5, and finish msg producer at 1.166
+this is 1, and finish msg producer at 1.194
+this is 3, and finish msg producer at 1.211
+this is 4, and finish msg producer at 1.296
+this is 6, and finish msg producer at 1.413
+this is 7, and finish msg producer at 1.570
+******this is 2, and local walker is 34384802
+******this is 7, and local walker is 35933187
+******this is 1, and local walker is 29723811
+******this is 4, and local walker is 41228328
+******this is 5, and local walker is 30832416
+******this is 6, and local walker is 43069224
+step(1), active(289178891), time(3.122)
+******this is 0, and local walker is 34819018
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 39188105
+this is 2, and finish msg producer at 0.490
+this is 5, and finish msg producer at 0.540
+this is 1, and finish msg producer at 0.551
+this is 0, and finish msg producer at 0.640
+this is 3, and finish msg producer at 0.721
+this is 7, and finish msg producer at 0.739
+this is 4, and finish msg producer at 0.814
+this is 6, and finish msg producer at 0.878
+******this is 2, and local walker is 27861258
+******this is 7, and local walker is 27229492
+******this is 1, and local walker is 23084353
+******this is 4, and local walker is 30191630
+******this is 5, and local walker is 26673620
+******this is 6, and local walker is 31589827
+step(2), active(223301200), time(4.162)
+******this is 0, and local walker is 28220123
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 28450897
+this is 2, and finish msg producer at 0.293
+this is 1, and finish msg producer at 0.317
+this is 5, and finish msg producer at 0.370
+this is 3, and finish msg producer at 0.393
+this is 0, and finish msg producer at 0.400
+this is 7, and finish msg producer at 0.402
+this is 4, and finish msg producer at 0.437
+this is 6, and finish msg producer at 0.473
+******this is 2, and local walker is 15357493
+******this is 4, and local walker is 17515712
+******this is 6, and local walker is 18387982
+******this is 7, and local walker is 15035023
+******this is 1, and local walker is 12398894
+******this is 5, and local walker is 14572885
+step(3), active(124970960), time(4.766)
+******this is 0, and local walker is 15855144
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 15847827
+this is 2, and finish msg producer at 0.101
+this is 1, and finish msg producer at 0.105
+this is 5, and finish msg producer at 0.123
+this is 0, and finish msg producer at 0.137
+this is 7, and finish msg producer at 0.138
+this is 3, and finish msg producer at 0.139
+this is 4, and finish msg producer at 0.156
+this is 6, and finish msg producer at 0.170
+******this is 7, and local walker is 4396813
+******this is 5, and local walker is 4434941
+******this is 6, and local walker is 5406749
+******this is 2, and local walker is 4600860
+******this is 1, and local walker is 3642369
+******this is 4, and local walker is 5087802
+step(4), active(36988300), time(4.963)
+******this is 0, and local walker is 4810193
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 4608573
+this is 2, and finish msg producer at 0.008
+this is 1, and finish msg producer at 0.010
+this is 5, and finish msg producer at 0.011
+this is 3, and finish msg producer at 0.012
+this is 0, and finish msg producer at 0.012
+this is 7, and finish msg producer at 0.013
+this is 4, and finish msg producer at 0.013
+this is 6, and finish msg producer at 0.014
+total time 4.979299s
+total time 4.979323s
+total time 4.979297s
+total time 4.979503s
+total time 4.979559s
+total time 4.979519s
+total time 4.979756s
+total time 4.980738s
+finish
+finish
+finish
+finish
+finish
+finish
+finish
+finish
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+read graph cost 1.417040
+read graph cost 1.433345
+read graph cost 1.441282
+read graph cost 1.453520
+read graph cost 1.462703
+read graph cost 1.466302
+read graph cost 1.474773
+read graph cost 1.476783
+partition 0 and edge is 1070605663
+partition 1 and edge is 950845297
+partition 2 and edge is 645813714
+partition 3 and edge is 494303125
+partition 4 and edge is 266984441
+partition 5 and edge is 110998448
+partition 6 and edge is 50804286
+partition 7 and edge is 21779083
+before local
+this is 1, local vertex number 8341835, local edge number 443765518
+this is 0, local vertex number 8294697, local edge number 446360786
+this is 2, local vertex number 8087609, local edge number 457762241
+this is 3, local vertex number 7996481, local edge number 462779410
+this is 4, local vertex number 7897611, local edge number 468222562
+this is 7, local vertex number 8814899, local edge number 417720399
+this is 5, local vertex number 7874299, local edge number 469506114
+this is 6, local vertex number 8300936, local edge number 446017240
+shuffle edge 7.422539
+shuffle edge 7.526059
+shuffle edge 7.858158
+shuffle edge 8.272351
+shuffle edge 8.624448
+shuffle edge 9.090976
+shuffle edge 9.123757
+shuffle edge 9.173691
+total size of csr 2927758328
+build edge 9.526224
+this is partition 5, and vertex is 7874299 edge is 469506114
+total size of csr 2922624120
+build edge 9.629153
+this is partition 4, and vertex is 7897611 edge is 468222562
+total size of csr 2900851512
+build edge 9.911991
+this is partition 3, and vertex is 7996481 edge is 462779410
+total size of csr 2880782836
+build edge 10.343861
+this is partition 2, and vertex is 8087609 edge is 457762241
+total size of csr 2824795944
+build edge 10.682933
+this is partition 1, and vertex is 8341835 edge is 443765518
+total size of csr 2835177016
+build edge 11.069081
+this is partition 0, and vertex is 8294697 edge is 446360786
+total size of csr 2720615468
+build edge 11.064474
+this is partition 7, and vertex is 8814899 edge is 417720399
+total size of csr 2833802832
+build edge 11.119383
+this is partition 6, and vertex is 8300936 edge is 446017240
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+at partition 2, cached 0 vertex and 0 edges
+at partition 0, cached 0 vertex and 0 edges
+at partition 5, cached 0 vertex and 0 edges
+at partition 6, cached 0 vertex and 0 edges
+at partition 1, cached 0 vertex and 0 edges
+at partition 4, cached 0 vertex and 0 edges
+at partition 7, cached 0 vertex and 0 edges
+at partition 3, cached 0 vertex and 0 edges
+at 7, finish load graph send graph 2.647527 s
+finish to load graph data
+at 1, finish load graph send graph 2.683775 s
+at 0, finish load graph send graph 2.688154 s
+at 2, finish load graph send graph 2.696439 s
+finish to load graph data
+at 6, finish load graph send graph 2.697111 s
+finish to load graph data
+finish to load graph data
+finish to load graph data
+at 5, finish load graph send graph 2.713705 s
+at 3, finish load graph send graph 2.711930 s
+at 4, finish load graph send graph 2.717193 s
+finish to load graph data
+finish to load graph data
+finish to load graph data
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.288
+this is 1, and finish msg producer at 0.493
+this is 0, and finish msg producer at 0.514
+this is 3, and finish msg producer at 0.533
+this is 6, and finish msg producer at 0.543
+this is 7, and finish msg producer at 0.547
+this is 4, and finish msg producer at 0.556
+this is 5, and finish msg producer at 0.558
+worker num 48
+finish test
+******this is 1, and local walker is 41709175
+worker num 48
+finish test
+******this is 7, and local walker is 44074495
+worker num 48
+finish test
+******this is 4, and local walker is 39488055
+worker num 48
+finish test
+******this is 5, and local walker is 39371495
+worker num 48
+finish test
+step(0), active(328041835), time(1.263)
+******this is 0, and local walker is 41473485
+msg_t 12, msg_data_t 8,
+worker num 48
+finish test
+******this is 3, and local walker is 39982405
+worker num 48
+finish test
+******this is 2, and local walker is 40438045
+worker num 48
+finish test
+******this is 6, and local walker is 41504680
+this is 2, and finish msg producer at 0.892
+this is 0, and finish msg producer at 1.145
+this is 5, and finish msg producer at 1.164
+this is 1, and finish msg producer at 1.207
+this is 3, and finish msg producer at 1.215
+this is 4, and finish msg producer at 1.294
+this is 6, and finish msg producer at 1.419
+this is 7, and finish msg producer at 1.564
+******this is 6, and local walker is 43068456
+******this is 2, and local walker is 34378989
+******this is 7, and local walker is 35935971
+******this is 1, and local walker is 29726093
+******this is 4, and local walker is 41224207
+******this is 3, and local walker is 39191781
+******this is 5, and local walker is 30832127
+step(1), active(289170277), time(3.081)
+******this is 0, and local walker is 34812653
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.487
+this is 5, and finish msg producer at 0.531
+this is 1, and finish msg producer at 0.557
+this is 0, and finish msg producer at 0.642
+this is 3, and finish msg producer at 0.733
+this is 7, and finish msg producer at 0.739
+this is 4, and finish msg producer at 0.816
+this is 6, and finish msg producer at 0.876
+******this is 1, and local walker is 23082558
+******this is 4, and local walker is 30181028
+******this is 6, and local walker is 31594189
+******this is 3, and local walker is 28460143
+******this is 2, and local walker is 27864703
+******this is 7, and local walker is 27226647
+******this is 5, and local walker is 26668986
+step(2), active(223292619), time(4.144)
+******this is 0, and local walker is 28214365
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.296
+this is 1, and finish msg producer at 0.319
+this is 5, and finish msg producer at 0.365
+this is 3, and finish msg producer at 0.394
+this is 7, and finish msg producer at 0.403
+this is 0, and finish msg producer at 0.404
+this is 4, and finish msg producer at 0.449
+this is 6, and finish msg producer at 0.472
+******this is 4, and local walker is 17516714
+******this is 6, and local walker is 18396048
+******this is 3, and local walker is 15849915
+******this is 2, and local walker is 15349498
+******this is 7, and local walker is 15031524
+******this is 1, and local walker is 12396348
+******this is 5, and local walker is 14573139
+step(3), active(124970648), time(4.692)
+******this is 0, and local walker is 15857462
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.100
+this is 1, and finish msg producer at 0.105
+this is 5, and finish msg producer at 0.123
+this is 7, and finish msg producer at 0.137
+this is 0, and finish msg producer at 0.138
+this is 3, and finish msg producer at 0.138
+this is 4, and finish msg producer at 0.155
+this is 6, and finish msg producer at 0.174
+******this is 4, and local walker is 5086436
+******this is 6, and local walker is 5408125
+******this is 3, and local walker is 4607447
+******this is 2, and local walker is 4601806
+******this is 7, and local walker is 4397407
+******this is 1, and local walker is 3643698
+******this is 5, and local walker is 4435529
+step(4), active(36987012), time(4.892)
+******this is 0, and local walker is 4806564
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.008
+this is 1, and finish msg producer at 0.010
+this is 5, and finish msg producer at 0.011
+this is 3, and finish msg producer at 0.012
+this is 0, and finish msg producer at 0.012
+this is 7, and finish msg producer at 0.012
+this is 4, and finish msg producer at 0.013
+this is 6, and finish msg producer at 0.014
+total time 4.908646s
+total time 4.908769s
+total time 4.908808s
+total time 4.908674s
+total time 4.908838s
+total time 4.908862s
+total time 4.908946s
+total time 4.909862s
+finish
+finish
+finish
+finish
+finish
+finish
+finish
+finish
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+worker num 48, 0
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+start to load graph data, partition_type 5
+read graph cost 1.447386
+read graph cost 1.448575
+read graph cost 1.455252
+read graph cost 1.457679
+read graph cost 1.474975
+read graph cost 1.499683
+read graph cost 1.501398
+read graph cost 1.517390
+partition 0 and edge is 1070605663
+partition 1 and edge is 950845297
+partition 2 and edge is 645813714
+partition 3 and edge is 494303125
+partition 4 and edge is 266984441
+partition 5 and edge is 110998448
+partition 6 and edge is 50804286
+partition 7 and edge is 21779083
+before local
+this is 1, local vertex number 8341835, local edge number 443765518
+this is 3, local vertex number 7996481, local edge number 462779410
+this is 4, local vertex number 7897611, local edge number 468222562
+this is 6, local vertex number 8300936, local edge number 446017240
+this is 0, local vertex number 8294697, local edge number 446360786
+this is 7, local vertex number 8814899, local edge number 417720399
+this is 2, local vertex number 8087609, local edge number 457762241
+this is 5, local vertex number 7874299, local edge number 469506114
+shuffle edge 7.551729
+shuffle edge 7.680727
+shuffle edge 8.150421
+shuffle edge 8.423347
+shuffle edge 8.788369
+shuffle edge 9.431690
+shuffle edge 9.433972
+shuffle edge 9.512042
+total size of csr 2927758328
+build edge 9.648201
+this is partition 5, and vertex is 7874299 edge is 469506114
+total size of csr 2922624120
+build edge 9.784713
+this is partition 4, and vertex is 7897611 edge is 468222562
+total size of csr 2900851512
+build edge 10.209015
+this is partition 3, and vertex is 7996481 edge is 462779410
+total size of csr 2880782836
+build edge 10.491663
+this is partition 2, and vertex is 8087609 edge is 457762241
+total size of csr 2824795944
+build edge 10.847105
+this is partition 1, and vertex is 8341835 edge is 443765518
+total size of csr 2720615468
+build edge 11.406201
+this is partition 7, and vertex is 8814899 edge is 417720399
+total size of csr 2833802832
+build edge 11.425843
+this is partition 6, and vertex is 8300936 edge is 446017240
+total size of csr 2835177016
+build edge 11.456192
+this is partition 0, and vertex is 8294697 edge is 446360786
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+finish read cache file
+at partition 2, cached 0 vertex and 0 edges
+at partition 6, cached 0 vertex and 0 edges
+at partition 7, cached 0 vertex and 0 edges
+at partition 5, cached 0 vertex and 0 edges
+at partition 0, cached 0 vertex and 0 edges
+at partition 3, cached 0 vertex and 0 edges
+at partition 1, cached 0 vertex and 0 edges
+at partition 4, cached 0 vertex and 0 edges
+at 7, finish load graph send graph 2.662853 s
+finish to load graph data
+at 6, finish load graph send graph 2.705908 s
+at 1, finish load graph send graph 2.709589 s
+finish to load graph data
+finish to load graph data
+at 0, finish load graph send graph 2.726273 s
+at 5, finish load graph send graph 2.743251 s
+finish to load graph data
+at 2, finish load graph send graph 2.749623 s
+at 3, finish load graph send graph 2.748042 s
+finish to load graph data
+finish to load graph data
+finish to load graph data
+at 4, finish load graph send graph 2.758759 s
+finish to load graph data
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.296
+this is 7, and finish msg producer at 0.494
+this is 1, and finish msg producer at 0.501
+this is 0, and finish msg producer at 0.507
+this is 5, and finish msg producer at 0.517
+this is 4, and finish msg producer at 0.522
+this is 6, and finish msg producer at 0.540
+this is 3, and finish msg producer at 0.544
+worker num 48
+finish test
+******this is 2, and local walker is 40438045
+worker num 48
+finish test
+******this is 1, and local walker is 41709175
+worker num 48
+finish test
+******this is 5, and local walker is 39371495
+worker num 48
+finish test
+******this is 4, and local walker is 39488055
+worker num 48
+finish test
+worker num 48
+finish test
+worker num 48
+finish test
+******this is 3, and local walker is 39982405
+worker num 48
+finish test
+******this is 7, and local walker is 44074495
+******this is 6, and local walker is 41504680
+step(0), active(328041835), time(1.282)
+******this is 0, and local walker is 41473485
+msg_t 12, msg_data_t 8,
+this is 2, and finish msg producer at 0.892
+this is 0, and finish msg producer at 1.147
+this is 5, and finish msg producer at 1.169
+this is 1, and finish msg producer at 1.206
+this is 3, and finish msg producer at 1.210
+this is 4, and finish msg producer at 1.295
+this is 6, and finish msg producer at 1.414
+this is 7, and finish msg producer at 1.561
+******this is 6, and local walker is 43064736
+******this is 2, and local walker is 34386821
+******this is 7, and local walker is 35940559
+******this is 1, and local walker is 29728531
+step(1), active(289185796), time(3.078)
+******this is 0, and local walker is 34816182
+msg_t 12, msg_data_t 8,
+******this is 5, and local walker is 30832267
+******this is 4, and local walker is 41230554
+******this is 3, and local walker is 39186146
+this is 2, and finish msg producer at 0.491
+this is 5, and finish msg producer at 0.541
+this is 1, and finish msg producer at 0.555
+this is 0, and finish msg producer at 0.651
+this is 3, and finish msg producer at 0.718
+this is 7, and finish msg producer at 0.734
+this is 4, and finish msg producer at 0.814
+this is 6, and finish msg producer at 0.881
+******this is 7, and local walker is 27235454
+******this is 2, and local walker is 27860997
+******this is 5, and local walker is 26682011
+******this is 4, and local walker is 30195931
+******this is 6, and local walker is 31597203
+step(2), active(223322004), time(4.106)
+******this is 0, and local walker is 28203743
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 28463623
+******this is 1, and local walker is 23083042
+this is 2, and finish msg producer at 0.294
+this is 1, and finish msg producer at 0.317
+this is 5, and finish msg producer at 0.373
+this is 3, and finish msg producer at 0.390
+this is 0, and finish msg producer at 0.398
+this is 7, and finish msg producer at 0.402
+this is 4, and finish msg producer at 0.439
+this is 6, and finish msg producer at 0.471
+******this is 4, and local walker is 17516036
+******this is 6, and local walker is 18389663
+******this is 2, and local walker is 15350387
+******this is 7, and local walker is 15035828
+******this is 1, and local walker is 12407517
+******this is 5, and local walker is 14582070
+step(3), active(124993240), time(4.664)
+******this is 0, and local walker is 15866163
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 15845576
+this is 2, and finish msg producer at 0.099
+this is 1, and finish msg producer at 0.105
+this is 5, and finish msg producer at 0.122
+this is 7, and finish msg producer at 0.137
+this is 0, and finish msg producer at 0.137
+this is 3, and finish msg producer at 0.138
+this is 4, and finish msg producer at 0.158
+this is 6, and finish msg producer at 0.170
+******this is 7, and local walker is 4398301
+******this is 2, and local walker is 4604018
+******this is 1, and local walker is 3635333
+******this is 5, and local walker is 4434037
+******this is 4, and local walker is 5090030
+******this is 6, and local walker is 5409570
+step(4), active(36989067), time(4.872)
+******this is 0, and local walker is 4808196
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 4609582
+this is 2, and finish msg producer at 0.008
+this is 1, and finish msg producer at 0.010
+this is 5, and finish msg producer at 0.011
+this is 3, and finish msg producer at 0.012
+this is 7, and finish msg producer at 0.012
+this is 0, and finish msg producer at 0.012
+this is 6, and finish msg producer at 0.014
+this is 4, and finish msg producer at 0.014
+total time 4.889445s
+total time 4.889531s
+total time 4.889568s
+total time 4.889580s
+total time 4.889425s
+total time 4.889676s
+total time 4.889708s
+total time 4.890592s
+finish
+finish
+finish
+finish
+finish
+finish
+finish
+finish

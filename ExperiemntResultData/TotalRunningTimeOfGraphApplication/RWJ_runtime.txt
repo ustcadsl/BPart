@@ -1,0 +1,810 @@
+
+
+./friendster-SRW-0-V-type-0-nocache.txt
+total time 3.510236s
+
+total time 3.510370s
+
+total time 3.510449s
+
+total time 3.510451s
+
+total time 3.510532s
+
+total time 3.510398s
+
+total time 3.510620s
+
+total time 3.510746s
+
+ 
+total time 3.433090s
+
+total time 3.433194s
+
+total time 3.433141s
+
+total time 3.433243s
+
+total time 3.433157s
+
+total time 3.433312s
+
+total time 3.433341s
+
+total time 3.433535s
+
+ 
+total time 3.386195s
+
+total time 3.386296s
+
+total time 3.386322s
+
+total time 3.386232s
+
+total time 3.386388s
+
+total time 3.386368s
+
+total time 3.386388s
+
+total time 3.386584s
+
+ 
+
+
+./friendster-SRW-0-V-type-1-nocache.txt
+total time 3.481303s
+
+total time 3.481357s
+
+total time 3.481375s
+
+total time 3.481393s
+
+total time 3.481443s
+
+total time 3.481730s
+
+total time 3.481970s
+
+total time 3.482219s
+
+ 
+total time 3.371356s
+
+total time 3.371500s
+
+total time 3.371486s
+
+total time 3.371771s
+
+total time 3.371855s
+
+total time 3.371880s
+
+total time 3.371991s
+
+total time 3.372293s
+
+ 
+total time 3.653477s
+
+total time 3.653439s
+
+total time 3.653438s
+
+total time 3.653820s
+
+total time 3.653972s
+
+total time 3.654005s
+
+total time 3.654233s
+
+total time 3.654358s
+
+ 
+
+
+./friendster-SRW-0-V-type-2-nocache.txt
+total time 2.726836s
+
+total time 2.726811s
+
+total time 2.726820s
+
+total time 2.726961s
+
+total time 2.726978s
+
+total time 2.726934s
+
+total time 2.727026s
+
+total time 2.727453s
+
+ 
+total time 2.595229s
+
+total time 2.595254s
+
+total time 2.595341s
+
+total time 2.595425s
+
+total time 2.595383s
+
+total time 2.595415s
+
+total time 2.595491s
+
+total time 2.595488s
+
+ 
+total time 2.922174s
+
+total time 2.922230s
+
+total time 2.922204s
+
+total time 2.922327s
+
+total time 2.922459s
+
+total time 2.922430s
+
+total time 2.922433s
+
+total time 2.922818s
+
+ 
+
+
+./friendster-SRW-0-V-type-3-nocache.txt
+total time 2.655602s
+
+total time 2.655572s
+
+total time 2.655672s
+
+total time 2.655650s
+
+total time 2.655703s
+
+total time 2.655670s
+
+total time 2.655872s
+
+total time 2.655866s
+
+ 
+total time 2.875103s
+
+total time 2.875219s
+
+total time 2.875287s
+
+total time 2.875356s
+
+total time 2.875395s
+
+total time 2.875479s
+
+total time 2.875570s
+
+total time 2.875724s
+
+ 
+total time 3.011463s
+
+total time 3.011624s
+
+total time 3.011663s
+
+total time 3.011579s
+
+total time 3.011707s
+
+total time 3.011654s
+
+total time 3.011781s
+
+total time 3.011916s
+
+ 
+
+
+./friendster-SRW-0-V-type-5-nocache.txt
+total time 2.383414s
+
+total time 2.383405s
+
+total time 2.383478s
+
+total time 2.383475s
+
+total time 2.383453s
+
+total time 2.383519s
+
+total time 2.383631s
+
+total time 2.383682s
+
+ 
+total time 2.565284s
+
+total time 2.565320s
+
+total time 2.565289s
+
+total time 2.565362s
+
+total time 2.565342s
+
+total time 2.565391s
+
+total time 2.565338s
+
+total time 2.565474s
+
+ 
+total time 2.506959s
+
+total time 2.506977s
+
+total time 2.506942s
+
+total time 2.507088s
+
+total time 2.506984s
+
+total time 2.507083s
+
+total time 2.507101s
+
+total time 2.507111s
+
+ 
+
+
+./twitter-SRW-0-V-type-0-nocache.txt
+total time 2.671674s
+
+total time 2.671993s
+
+total time 2.672041s
+
+total time 2.672048s
+
+total time 2.672065s
+
+total time 2.672145s
+
+total time 2.672161s
+
+total time 2.672767s
+
+ 
+total time 2.400966s
+
+total time 2.401162s
+
+total time 2.401225s
+
+total time 2.401132s
+
+total time 2.401187s
+
+total time 2.401211s
+
+total time 2.401317s
+
+total time 2.401302s
+
+ 
+total time 2.698518s
+
+total time 2.698605s
+
+total time 2.698572s
+
+total time 2.698829s
+
+total time 2.698882s
+
+total time 2.698919s
+
+total time 2.698898s
+
+total time 2.699619s
+
+ 
+
+
+./twitter-SRW-0-V-type-1-nocache.txt
+total time 1.498576s
+
+total time 1.498622s
+
+total time 1.498699s
+
+total time 1.498726s
+
+total time 1.498973s
+
+total time 1.499030s
+
+total time 1.499063s
+
+total time 1.499074s
+
+ 
+total time 1.635678s
+
+total time 1.635656s
+
+total time 1.635886s
+
+total time 1.635906s
+
+total time 1.635963s
+
+total time 1.635976s
+
+total time 1.636037s
+
+total time 1.636076s
+
+ 
+total time 1.434707s
+
+total time 1.434689s
+
+total time 1.434809s
+
+total time 1.434864s
+
+total time 1.434878s
+
+total time 1.434860s
+
+total time 1.435054s
+
+total time 1.435164s
+
+ 
+
+
+./twitter-SRW-0-V-type-2-nocache.txt
+total time 1.236497s
+
+total time 1.236534s
+
+total time 1.236539s
+
+total time 1.236606s
+
+total time 1.236617s
+
+total time 1.236696s
+
+total time 1.236811s
+
+total time 1.236840s
+
+ 
+total time 1.111134s
+
+total time 1.111153s
+
+total time 1.111164s
+
+total time 1.111159s
+
+total time 1.111194s
+
+total time 1.111193s
+
+total time 1.111217s
+
+total time 1.111265s
+
+ 
+total time 1.088852s
+
+total time 1.088845s
+
+total time 1.088904s
+
+total time 1.088872s
+
+total time 1.088903s
+
+total time 1.088920s
+
+total time 1.089000s
+
+total time 1.089145s
+
+ 
+
+
+./twitter-SRW-0-V-type-3-nocache.txt
+total time 2.824636s
+
+total time 2.824651s
+
+total time 2.824669s
+
+total time 2.824809s
+
+total time 2.824864s
+
+total time 2.824905s
+
+total time 2.824982s
+
+total time 2.825170s
+
+ 
+total time 2.991747s
+
+total time 2.991713s
+
+total time 2.991805s
+
+total time 2.991760s
+
+total time 2.991776s
+
+total time 2.991887s
+
+total time 2.991842s
+
+total time 2.992397s
+
+ 
+total time 2.784669s
+
+total time 2.784706s
+
+total time 2.784783s
+
+total time 2.784753s
+
+total time 2.784777s
+
+total time 2.784828s
+
+total time 2.784868s
+
+total time 2.785084s
+
+ 
+
+
+./twitter-SRW-0-V-type-5-nocache.txt
+total time 0.922320s
+
+total time 0.922364s
+
+total time 0.922339s
+
+total time 0.922360s
+
+total time 0.922415s
+
+total time 0.922445s
+
+total time 0.922499s
+
+total time 0.922463s
+
+ 
+total time 0.951382s
+
+total time 0.951450s
+
+total time 0.951459s
+
+total time 0.951419s
+
+total time 0.951452s
+
+total time 0.951457s
+
+total time 0.951436s
+
+total time 0.951528s
+
+ 
+total time 1.211724s
+
+total time 1.211761s
+
+total time 1.211798s
+
+total time 1.211852s
+
+total time 1.211821s
+
+total time 1.211820s
+
+total time 1.211879s
+
+total time 1.211869s
+
+ 
+
+
+./LiveJournal-SRW-10-V-type-0-nocache.txt
+total time 4.832894s
+
+total time 4.833345s
+
+total time 4.833485s
+
+total time 4.833506s
+
+total time 4.833483s
+
+total time 4.833518s
+
+total time 4.834061s
+
+total time 4.834119s
+
+ 
+total time 5.064999s
+
+total time 5.065016s
+
+total time 5.064882s
+
+total time 5.065254s
+
+total time 5.065260s
+
+total time 5.065985s
+
+total time 5.066254s
+
+total time 5.066556s
+
+ 
+total time 4.783625s
+
+total time 4.783470s
+
+total time 4.783637s
+
+total time 4.783739s
+
+total time 4.783839s
+
+total time 4.783888s
+
+total time 4.784615s
+
+total time 4.784743s
+
+ 
+
+
+./LiveJournal-SRW-10-V-type-1-nocache.txt
+total time 4.323717s
+
+total time 4.323784s
+
+total time 4.323837s
+
+total time 4.323853s
+
+total time 4.323836s
+
+total time 4.324316s
+
+total time 4.324681s
+
+total time 4.325660s
+
+ 
+total time 4.357528s
+
+total time 4.357714s
+
+total time 4.357761s
+
+total time 4.357809s
+
+total time 4.357955s
+
+total time 4.357944s
+
+total time 4.358117s
+
+total time 4.359210s
+
+ 
+total time 4.317095s
+
+total time 4.317105s
+
+total time 4.317111s
+
+total time 4.317302s
+
+total time 4.317323s
+
+total time 4.317299s
+
+total time 4.317260s
+
+total time 4.319346s
+
+ 
+
+
+./LiveJournal-SRW-10-V-type-2-nocache.txt
+total time 2.847173s
+
+total time 2.847243s
+
+total time 2.847288s
+
+total time 2.847282s
+
+total time 2.847400s
+
+total time 2.847472s
+
+total time 2.847594s
+
+total time 2.847624s
+
+ 
+total time 2.988451s
+
+total time 2.988516s
+
+total time 2.988546s
+
+total time 2.988550s
+
+total time 2.988519s
+
+total time 2.988898s
+
+total time 2.988950s
+
+total time 2.989082s
+
+ 
+total time 2.744960s
+
+total time 2.744917s
+
+total time 2.745069s
+
+total time 2.745127s
+
+total time 2.745120s
+
+total time 2.745354s
+
+total time 2.745384s
+
+total time 2.745626s
+
+ 
+
+
+./LiveJournal-SRW-10-V-type-3-nocache.txt
+total time 2.596472s
+
+total time 2.596531s
+
+total time 2.596539s
+
+total time 2.596604s
+
+total time 2.596595s
+
+total time 2.596792s
+
+total time 2.596851s
+
+total time 2.596922s
+
+ 
+total time 2.341527s
+
+total time 2.341527s
+
+total time 2.341591s
+
+total time 2.341656s
+
+total time 2.341729s
+
+total time 2.341772s
+
+total time 2.341913s
+
+total time 2.342045s
+
+ 
+total time 2.573140s
+
+total time 2.573201s
+
+total time 2.573246s
+
+total time 2.573305s
+
+total time 2.573388s
+
+total time 2.573413s
+
+total time 2.573442s
+
+total time 2.573812s
+
+ 
+
+
+./LiveJournal-SRW-10-V-type-5-nocache.txt
+total time 2.358449s
+
+total time 2.358508s
+
+total time 2.358541s
+
+total time 2.358543s
+
+total time 2.358576s
+
+total time 2.358695s
+
+total time 2.358746s
+
+total time 2.358835s
+
+ 
+total time 2.173541s
+
+total time 2.173587s
+
+total time 2.173610s
+
+total time 2.173673s
+
+total time 2.173666s
+
+total time 2.173688s
+
+total time 2.173624s
+
+total time 2.174229s
+
+ 
+total time 2.370417s
+
+total time 2.370431s
+
+total time 2.370430s
+
+total time 2.370410s
+
+total time 2.370419s
+
+total time 2.370382s
+
+total time 2.370632s
+
+total time 2.371064s
+
+ 

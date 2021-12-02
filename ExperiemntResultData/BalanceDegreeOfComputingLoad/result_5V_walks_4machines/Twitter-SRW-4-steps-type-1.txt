@@ -1,0 +1,321 @@
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+2 finish fennel partition
+0 finish fennel partition
+finish write
+end write partition id 0, finished subgraph 4, 
+finish write
+1 finish fennel partition
+this is 0, local vertex number 2101942, local edge number 369632284
+this is 2, local vertex number 9227979, local edge number 369631827
+finish write
+this is 1, local vertex number 3088037, local edge number 369633752
+3 finish fennel partition
+finish write
+before local
+this is 3, local vertex number 26974005, local edge number 369629445
+shuffle edge 8.155983
+shuffle edge 7.873505
+shuffle edge 8.355118
+shuffle edge 6.777359
+total size of csr 2140798716
+build edge 9.561648
+this is partition 2, and vertex is 9227979 edge is 369631827
+total size of csr 2140800544
+build edge 9.795276
+this is partition 0, and vertex is 2101942 edge is 369632284
+total size of csr 2140806416
+build edge 9.485121
+this is partition 1, and vertex is 3088037 edge is 369633752
+total size of csr 2140789188
+build edge 8.394839
+this is partition 3, and vertex is 26974005 edge is 369629445
+at partition 0, cached 0 vertex and 0 edges
+at partition 1, cached 0 vertex and 0 edges
+at partition 3, cached 0 vertex and 0 edges
+at partition 2, cached 0 vertex and 0 edges
+start to send graph
+start to send graph
+start to send graph
+start to send graph
+at 1, finish load graph send graph 3.255916 s
+at 0, finish load graph send graph 3.256768 s
+at 2, finish load graph send graph 3.230474 s
+finish to load graph data
+finish to load graph data
+finish to load graph data
+at 3, finish load graph send graph 3.581935 s
+finish to load graph data
+msg_t 12, msg_data_t 8,
+this is 1, and finish msg producer at 0.260
+this is 2, and finish msg producer at 0.260
+this is 3, and finish msg producer at 0.266
+this is 0, and finish msg producer at 0.268
+step(0), active(206959815), time(1.023)
+******this is 0, and local walker is 10509710
+msg_t 12, msg_data_t 8,
+******this is 2, and local walker is 46139895
+******this is 1, and local walker is 15440185
+******this is 3, and local walker is 134870025
+this is 0, and finish msg producer at 0.201
+this is 1, and finish msg producer at 0.296
+this is 2, and finish msg producer at 0.870
+this is 3, and finish msg producer at 1.297
+******this is 1, and local walker is 52587077
+******this is 2, and local walker is 34082998
+step(1), active(162253411), time(2.644)
+******this is 0, and local walker is 51575990
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 24007346
+this is 3, and finish msg producer at 0.299
+this is 2, and finish msg producer at 0.531
+this is 0, and finish msg producer at 0.735
+this is 1, and finish msg producer at 0.747
+******this is 1, and local walker is 22246727
+******this is 2, and local walker is 38605486
+step(2), active(156924038), time(3.480)
+******this is 0, and local walker is 18563141
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 77508684
+this is 0, and finish msg producer at 0.225
+this is 1, and finish msg producer at 0.274
+this is 2, and finish msg producer at 0.540
+this is 3, and finish msg producer at 0.987
+******this is 1, and local walker is 41779856
+******this is 2, and local walker is 29980136
+step(3), active(139525259), time(4.542)
+******this is 0, and local walker is 42442822
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 25322445
+this is 3, and finish msg producer at 0.216
+this is 2, and finish msg producer at 0.307
+this is 1, and finish msg producer at 0.411
+this is 0, and finish msg producer at 0.411
+******this is 1, and local walker is 12192001
+step(4), active(97557169), time(5.051)
+******this is 0, and local walker is 10150359
+msg_t 12, msg_data_t 8,
+******this is 2, and local walker is 23337301
+******this is 3, and local walker is 51877508
+this is 0, and finish msg producer at 0.011
+this is 1, and finish msg producer at 0.014
+this is 2, and finish msg producer at 0.037
+this is 3, and finish msg producer at 0.103
+total time 5.156033s
+total time 5.156351s
+total time 5.156820s
+finish
+finish
+finish
+total time 5.181140s
+finish
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+before local
+this is 0, local vertex number 2101942, local edge number 369632284
+this is 1, local vertex number 3088037, local edge number 369633752
+this is 2, local vertex number 9227979, local edge number 369631827
+this is 3, local vertex number 26974005, local edge number 369629445
+shuffle edge 6.608138
+shuffle edge 7.011906
+shuffle edge 7.000364
+shuffle edge 6.946864
+total size of csr 2140798716
+build edge 8.010942
+this is partition 2, and vertex is 9227979 edge is 369631827
+total size of csr 2140800544
+build edge 8.447578
+this is partition 0, and vertex is 2101942 edge is 369632284
+total size of csr 2140806416
+build edge 9.007127
+this is partition 1, and vertex is 3088037 edge is 369633752
+total size of csr 2140789188
+build edge 9.072160
+this is partition 3, and vertex is 26974005 edge is 369629445
+at partition 0, cached 0 vertex and 0 edges
+at partition 1, cached 0 vertex and 0 edges
+at partition 3, cached 0 vertex and 0 edges
+at partition 2, cached 0 vertex and 0 edges
+start to send graph
+start to send graph
+start to send graph
+start to send graph
+at 0, finish load graph send graph 3.828083 s
+at 1, finish load graph send graph 3.826819 s
+at 2, finish load graph send graph 3.804113 s
+finish to load graph data
+finish to load graph data
+finish to load graph data
+at 3, finish load graph send graph 4.148536 s
+finish to load graph data
+msg_t 12, msg_data_t 8,
+this is 1, and finish msg producer at 0.257
+this is 2, and finish msg producer at 0.258
+this is 0, and finish msg producer at 0.266
+this is 3, and finish msg producer at 0.268
+******this is 1, and local walker is 15440185
+step(0), active(206959815), time(1.061)
+******this is 0, and local walker is 10509710
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 134870025
+******this is 2, and local walker is 46139895
+this is 0, and finish msg producer at 0.204
+this is 1, and finish msg producer at 0.247
+this is 2, and finish msg producer at 0.872
+this is 3, and finish msg producer at 1.323
+******this is 1, and local walker is 52594546
+******this is 2, and local walker is 34080295
+step(1), active(162256070), time(2.513)
+******this is 0, and local walker is 51575012
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 24006217
+this is 3, and finish msg producer at 0.272
+this is 2, and finish msg producer at 0.523
+this is 1, and finish msg producer at 0.706
+this is 0, and finish msg producer at 0.729
+******this is 1, and local walker is 22253230
+******this is 2, and local walker is 38602929
+******this is 3, and local walker is 77501313
+step(2), active(156925298), time(3.324)
+******this is 0, and local walker is 18567826
+msg_t 12, msg_data_t 8,
+this is 0, and finish msg producer at 0.225
+this is 1, and finish msg producer at 0.257
+this is 2, and finish msg producer at 0.537
+this is 3, and finish msg producer at 0.955
+******this is 1, and local walker is 41786056
+******this is 2, and local walker is 29966608
+step(3), active(139520224), time(4.590)
+******this is 0, and local walker is 42443748
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 25323812
+this is 3, and finish msg producer at 0.206
+this is 2, and finish msg producer at 0.305
+this is 1, and finish msg producer at 0.400
+this is 0, and finish msg producer at 0.411
+******this is 1, and local walker is 12194346
+******this is 2, and local walker is 23329209
+step(4), active(97563307), time(5.059)
+******this is 0, and local walker is 10155560
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 51884192
+this is 0, and finish msg producer at 0.012
+this is 1, and finish msg producer at 0.014
+this is 2, and finish msg producer at 0.039
+this is 3, and finish msg producer at 0.133
+total time 5.194276s
+total time 5.194847s
+total time 5.194972s
+finish
+finish
+total time 5.215500s
+finish
+finish
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+start to load graph data, partition_type 1
+before local
+this is 0, local vertex number 2101942, local edge number 369632284
+this is 1, local vertex number 3088037, local edge number 369633752
+this is 2, local vertex number 9227979, local edge number 369631827
+this is 3, local vertex number 26974005, local edge number 369629445
+shuffle edge 6.801276
+shuffle edge 7.219394
+shuffle edge 7.210288
+shuffle edge 7.015229
+total size of csr 2140798716
+build edge 8.208851
+this is partition 2, and vertex is 9227979 edge is 369631827
+total size of csr 2140800544
+build edge 8.655925
+this is partition 0, and vertex is 2101942 edge is 369632284
+total size of csr 2140789188
+build edge 9.149388
+this is partition 3, and vertex is 26974005 edge is 369629445
+total size of csr 2140806416
+build edge 11.716409
+this is partition 1, and vertex is 3088037 edge is 369633752
+at partition 0, cached 0 vertex and 0 edges
+at partition 2, cached 0 vertex and 0 edges
+at partition 1, cached 0 vertex and 0 edges
+at partition 3, cached 0 vertex and 0 edges
+start to send graph
+start to send graph
+start to send graph
+start to send graph
+at 1, finish load graph send graph 3.766341 s
+at 2, finish load graph send graph 3.765626 s
+at 0, finish load graph send graph 3.769298 s
+finish to load graph data
+finish to load graph data
+finish to load graph data
+at 3, finish load graph send graph 4.098780 s
+finish to load graph data
+msg_t 12, msg_data_t 8,
+this is 3, and finish msg producer at 0.244
+this is 2, and finish msg producer at 0.251
+this is 0, and finish msg producer at 0.262
+this is 1, and finish msg producer at 0.275
+******this is 1, and local walker is 15440185
+step(0), active(206959815), time(1.112)
+******this is 0, and local walker is 10509710
+msg_t 12, msg_data_t 8,
+******this is 2, and local walker is 46139895
+******this is 3, and local walker is 134870025
+this is 0, and finish msg producer at 0.202
+this is 1, and finish msg producer at 0.250
+this is 2, and finish msg producer at 0.856
+this is 3, and finish msg producer at 1.669
+******this is 3, and local walker is 23997561
+******this is 1, and local walker is 52592800
+******this is 2, and local walker is 34080713
+step(1), active(162254072), time(2.915)
+******this is 0, and local walker is 51582998
+msg_t 12, msg_data_t 8,
+this is 3, and finish msg producer at 0.277
+this is 2, and finish msg producer at 0.529
+this is 1, and finish msg producer at 0.718
+this is 0, and finish msg producer at 0.746
+******this is 1, and local walker is 22256125
+******this is 2, and local walker is 38592780
+step(2), active(156920549), time(3.722)
+******this is 0, and local walker is 18557009
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 77514635
+this is 0, and finish msg producer at 0.225
+this is 1, and finish msg producer at 0.260
+this is 2, and finish msg producer at 0.545
+this is 3, and finish msg producer at 0.862
+******this is 2, and local walker is 29976345
+step(3), active(139512774), time(4.663)
+******this is 0, and local walker is 42441584
+msg_t 12, msg_data_t 8,
+******this is 3, and local walker is 25323724
+******this is 1, and local walker is 41771121
+this is 3, and finish msg producer at 0.201
+this is 2, and finish msg producer at 0.307
+this is 1, and finish msg producer at 0.403
+this is 0, and finish msg producer at 0.407
+******this is 1, and local walker is 12186650
+******this is 3, and local walker is 51872372
+******this is 2, and local walker is 23328074
+step(4), active(97540173), time(5.123)
+******this is 0, and local walker is 10153077
+msg_t 12, msg_data_t 8,
+this is 0, and finish msg producer at 0.011
+this is 1, and finish msg producer at 0.014
+this is 2, and finish msg producer at 0.038
+this is 3, and finish msg producer at 0.133
+total time 5.258794s
+total time 5.258994s
+total time 5.259487s
+finish
+finish
+total time 5.279865s
+finish
+finish
